@@ -1,0 +1,23 @@
+@media (min-width: 599px) {
+  .welcomeText{
+    overflow:hidden;
+    animation: showup 3s ease-in-out;
+
+}
+}
+
+
+@keyframes showup {
+    0% {
+      opacity: 0;
+      height: 2px;
+    }
+
+    100% {
+      opacity: 1;
+      height: 60px;
+    }
+  }
+
+
+

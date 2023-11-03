@@ -1,0 +1,5 @@
+.selectedDay{
+    font-weight: bold;
+    color:"var(--chakra-colors-accent-500)"
+
+}
